@@ -28,4 +28,5 @@ A line plot showing actual vs predicted prices of AAPL stock from 2018–2023.
 
 ## 📂 File Included
 - `Stock_Price_Predictor.ipynb` — Colab notebook
+- `AAPL_stock_prediction.csv` — CSV file with predicted values 
 - `README.md` — Project overview
